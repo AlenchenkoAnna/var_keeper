@@ -1,3 +1,6 @@
+name: Welcome workflow
+run-name: Added new commit
+
 on: push
 
 jobs:
